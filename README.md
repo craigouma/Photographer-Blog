@@ -1,2 +1,5 @@
 # Photographer-Blog
-The link to the demo page is: <a href="https://project3-eosin.vercel.app/">DEMO PAGE</a>
+
+The link to the website is: <a href="https://project3-eosin.vercel.app/">PHOTOGRAPHER BLOG</a>
+
+Clone the repository. Make the necessary changes.
